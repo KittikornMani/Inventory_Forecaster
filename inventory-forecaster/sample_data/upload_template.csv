@@ -1,0 +1,4 @@
+series_id,date,sales,sell_price,is_event,snap
+HOBBIES_1_001_CA_1_validation,2016-04-20,1,8.50,0,0
+HOBBIES_1_001_CA_1_validation,2016-04-21,0,8.50,0,0
+HOBBIES_1_001_CA_1_validation,2016-04-22,2,8.50,0,0
